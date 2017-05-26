@@ -7,7 +7,7 @@ by [Michael Hartl](http://www.michaelhartl.com/).
 
 ## Project Demo
 
-You can view the project at [Production App](jtu-sample-app.herokuapp.com)
+You can view the project at [Production App](https://jtu-sample-app.herokuapp.com)
 
 ## Features
 
