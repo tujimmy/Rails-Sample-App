@@ -1,0 +1,48 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+one:
+  follower: jimmy
+  followed: lana
+  
+two:
+  follower: jimmy
+  followed: malory
+  
+three:
+  follower: lana
+  followed: jimmy
+  
+four:
+  follower: archer
+  followed: jimmy
+  
+  
+
+
+# jimmy:
+#   name: Jimmy Example
+#   email: jimmy@jimmy.com
+#   password_digest: <%= User.digest('password') %>
+#   admin: true
+#   activated: true
+#   activated_at: <%= Time.zone.now %>
+  
+# michael:
+#   name: Michael Example
+#   email: michael@example.com
+#   password_digest: <%= User.digest('password') %>
+#   activated: true
+#   activated_at: <%= Time.zone.now %>  
+
+# archer:
+#   name: Sterling Archer
+#   email: duchess@example.gov
+#   password_digest: <%= User.digest('password') %>
+#   activated: true
+#   activated_at: <%= Time.zone.now %>
+  
+# lana:
+#   name: Lana Kane
+#   email: hands@example.gov
+#   password_digest: <%= User.digest('password') %>
+#   activated: true
+#   activated_at: <%= Time.zone.now %>
